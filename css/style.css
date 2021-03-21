@@ -1,0 +1,57 @@
+            body {
+                background: url("../img/wallpaper.jpg");
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                line-height: 1.5;
+            }
+            
+            .card {
+                margin-right: 30px;
+                margin-left: 30px;
+                box-shadow: 0px 10px 10px currentColor;
+                border-radius: 10px;
+                padding: 10px;
+            }
+            
+            .pers_img {
+                display: inline-block;
+                width: 300px;
+                box-shadow: 0px 10px 10px currentColor;
+                border-radius: 20px;
+            }
+            
+            .personaldate {
+                margin-right: 30px;
+                margin-left: 30px;
+                box-shadow: 0px 10px 10px currentColor;
+                border-radius: 10px;
+                padding: 10px;
+                font-size: 20px;
+                color: rgb(255, 255, 255);
+                display: inline-block;
+            }
+            
+            .title {
+                display: inline-flexbox;
+                margin: 5px 10px;
+                font-size: 30px;
+                color: #fbff00;
+            }
+            
+            .hobby {
+                margin-right: 30px;
+                margin-left: 30px;
+                box-shadow: 0px 10px 10px currentColor;
+                border-radius: 10px;
+                padding: 10px;
+                font-size: 20px;
+                color: rgb(255, 255, 255);
+                display: inline-block;
+            }
+            
+            .personalphoto {
+                display: inline-flexbox;
+            }
+            
+            .txt_personal {
+                color: rgb(252, 122, 0);
+            }
